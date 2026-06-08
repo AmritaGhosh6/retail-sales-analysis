@@ -23,7 +23,7 @@ The dashboard provides a quick view of key business metrics such as Sales, Profi
 - Business Insights based on dashboard findings
 
 ## Key Insights
-- West region leads in both sales and protitability.
+- West region leads in both sales and profitability.
 - East region shows stable and consistent performance.
 - Central region underperforms in profit despite decent sales, indicating inefficiencies that require attention.
 - South records the lowest sales but maintains relatively better profitability.
@@ -57,11 +57,11 @@ The dashboard provides a quick view of key business metrics such as Sales, Profi
 
 ## Dashboard Preview
 ### Dashboard Overview
-![Dashboard Overview](retail-sales-dashboard-1.png)
+![Dashboard Overview](images/retail-sales-dashboard-1.png)
 
 ### Interactive Dashboard View 1
-![Interactive Dashboard View 1](retail-sales-dashboard-2.png)
+![Interactive Dashboard View 1](images/retail-sales-dashboard-2.png)
 
 ### Interactive Dashboard View 2
-![Interactive Dashboard View 2](retail-sales-dashboard-3.png)
+![Interactive Dashboard View 2](images/retail-sales-dashboard-3.png)
 
